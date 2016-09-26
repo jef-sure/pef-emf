@@ -1,2 +1,2 @@
-# pef-emf
+# PEF::EMF
 PEF Event Model Framework
